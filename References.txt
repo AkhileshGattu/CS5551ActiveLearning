@@ -1,0 +1,3 @@
+https://en.wikipedia.org/wiki/Adapter_pattern
+
+http://www.avajava.com/tutorials/lessons/adapter-pattern.html?page=2
